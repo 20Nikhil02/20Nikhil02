@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20nikhil02&label=Profile%20views&color=0e75b6&style=flat" alt="20nikhil02" /> </p>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Js,React**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/20Nikhil02?tab=repositories](https://github.com/20Nikhil02?tab=repositories)
 
